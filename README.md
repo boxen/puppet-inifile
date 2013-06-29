@@ -1,5 +1,7 @@
 # INI-file module #
 
+[![Build Status](https://travis-ci.org/boxen/puppet-inifile.png?branch=master)](https://travis-ci.org/boxen/puppet-inifile)
+
 This module provides resource types for use in managing INI-style configuration
 files.  The main resource type is `ini_setting`, which is used to manage an
 individual setting in an INI file.  Here's an example usage:
